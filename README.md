@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bonjour et bienvenue sur mon Github 👋
+
+![Alt text](/"https://i.ibb.co/fSj7SR6/image.jpg")
 
 <!--
 **gwen31/gwen31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
