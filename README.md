@@ -1,19 +1,39 @@
-### Bonjour et bienvenue sur mon Github 👋
+# Bonjour et bienvenue sur mon Github 👋
 
-![Alt text](https://i.ibb.co/fSj7SR6/image.jpg)
-![Alt image](/assets/image.jpg)
+![Alt image](/assets/image.jng)
 
-<!--
-**gwen31/gwen31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Je me présente:** *Gwénaëlle, développeuse Web et Web mobile*
 
-Here are some ideas to get you started:
+Vous pourrez découvrir quelques projets personnels que j'ai réalisé et des projets réalisés lors de ma formation en équipe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ Quelques infos:
+
+Je travaille principalement sur les technos suivantes:
+
+* 🖱️ FrontEnd:
+
+    * #61DAFB React.js
+    * #61DAFB React Native
+    * #F7DF1E JavaScript
+    * #1572B6 CSS / react Bootstrap /react Suite/ aphrodite.js 
+    * #E34F26 Html
+
+* 🖱️ BackEnd:
+
+    * #339933 Node.js
+    * #000000 Express.js
+    * #4479A1 MySql
+
+## 🖥️ Quelques liens:
+
+Voici les liens de  3 projets déployaient sur Github Pages et Vercel
+
+* ⌨️ locationbarcares = [un site sur notre location de barcares](https://barcares-aj8sq9wjp-locationbarcares.vercel.app/)
+* ⌨️ aDayInToulouse = [un site sur les activités sur Toulouse](https://gwen31.github.io/aDayInToulouse/)
+* ⌨️ PokéWildex = [un pokédex](https://pokewildex-3b8gwzbhx-pokewildex.vercel.app/)
+
+## 🖥️ Lien Linkedin:
+
+Vous pouvez me joindre sur ici [lien linkedin](https://www.linkedin.com/in/merle-gw%C3%A9na%C3%ABlle/)
+
+# Merci beaucoup d'avoir pris quelque minute pour me lire 😀
