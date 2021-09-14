@@ -1,6 +1,6 @@
 # Bonjour et bienvenue sur mon Github 😀
 
-![Alt image](/assets/image.png)
+![Alt image](/assets/image.png =400x200)
 
 **Je me présente :** *Gwénaëlle, développeuse Web et Web mobile*
 
@@ -12,7 +12,7 @@ Je travaille principalement sur les technos suivantes:
 
  💻 **FrontEnd :**
 
-   * ![Alt image](/assets/react.png = 50px 50px) React.js
+    🖱️ React.js 
     🖱️ React Native
     🖱️ JavaScript
     🖱️ CSS / react Bootstrap /react Suite/ aphrodite.js 
