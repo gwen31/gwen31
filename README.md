@@ -12,7 +12,7 @@ Je travaille principalement sur les technos suivantes:
 
  💻 **FrontEnd :**
 
-   ![Alt image](/assets/react.png) React.js
+   * ![Alt image](/assets/react.png = 50px 50px) React.js
     🖱️ React Native
     🖱️ JavaScript
     🖱️ CSS / react Bootstrap /react Suite/ aphrodite.js 
