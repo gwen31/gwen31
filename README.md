@@ -2,7 +2,9 @@
 
 ![Alt image](/assets/image.png)
 
-**Je me présente :** *Gwénaëlle, développeuse Web et Web mobile*
+**Je me présente :**
+
+*Gwénaëlle, développeuse Web et Web mobile*
 
 Vous pourrez découvrir quelques projets personnels que j'ai réalisé et des projets réalisés lors de ma formation en équipe.
 
