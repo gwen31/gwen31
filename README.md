@@ -1,6 +1,6 @@
 # Bonjour et bienvenue sur mon Github 😀
 
-![Alt image](/assets/image.png =400x200)
+![Alt image](/assets/image.png)
 
 **Je me présente :** *Gwénaëlle, développeuse Web et Web mobile*
 
